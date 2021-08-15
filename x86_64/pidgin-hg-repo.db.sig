@@ -1,1 +1,0 @@
-pidgin-hg-repo.db.tar.Z.sig

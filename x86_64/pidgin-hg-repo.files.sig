@@ -1,1 +1,0 @@
-pidgin-hg-repo.files.tar.Z.sig
